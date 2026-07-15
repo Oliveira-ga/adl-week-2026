@@ -18,7 +18,8 @@ Abra `index.html` em um navegador moderno. O site funciona offline e salva o and
 - Configuração de quatro times e pontuação inicial
 - Placar geral, histórico e ajustes manuais
 - Super Jogo da Memória com turnos e pontuação automática
-- Quiz de apostas e Leilão de Enigmas
+- Quiz de apostas e Leilão de Enigmas com bancos de 20 itens cada
+- Ordem rotativa dos times e opção de repetir ou avançar após cada dinâmica
 - Cronômetro, recuperação após F5 e encerramento com pódio
 
 ## Publicação
