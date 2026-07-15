@@ -11,7 +11,15 @@ Site local para condução e pontuação das dinâmicas internas da ADL Week 202
 
 ## Execução
 
-Quando o site estiver implementado, bastará abrir `index.html` em um navegador moderno.
+Abra `index.html` em um navegador moderno. O site funciona offline e salva o andamento automaticamente no navegador.
+
+## Funcionalidades
+
+- Configuração de quatro times e pontuação inicial
+- Placar geral, histórico e ajustes manuais
+- Super Jogo da Memória com turnos e pontuação automática
+- Quiz de apostas e Leilão de Enigmas
+- Cronômetro, recuperação após F5 e encerramento com pódio
 
 ## Publicação
 
